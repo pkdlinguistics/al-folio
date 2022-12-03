@@ -10,10 +10,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  <p>Room no: 138</p>
+  <p>Centre for Linguistics,</p>
+  <p>School of Language, Literature and Culture Studies</p>
+  <p>Jawaharlal Nehru University,</p>
+  <p>New Delhi-110067, India</p>
+  <p>Ph:26704199</p>
+  <p>Mob:+91-9868608884</p>
+  
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
