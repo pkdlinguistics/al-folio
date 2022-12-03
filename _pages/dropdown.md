@@ -55,5 +55,4 @@ children:
     - title: divider
     - title: C.S.Pierce's Classification of Sign
       permalink: /pierces-classification-of-sign/
-    - title: divider
 ---
