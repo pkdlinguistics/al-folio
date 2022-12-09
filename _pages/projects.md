@@ -13,7 +13,6 @@ children:
     - title: divider
     - title: Career at JNU
       permalink: /about-me/
-    - title: divider
 horizontal: false
 ---
 

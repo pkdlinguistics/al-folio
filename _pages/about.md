@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
 subtitle: Professor of Linguistics at Centre for Linguistics, JNU, New Delhi
   # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
