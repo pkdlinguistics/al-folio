@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Careers
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
@@ -8,8 +8,12 @@ nav_order: 2
 display_categories: [work, fun]
 dropdown: true
 children: 
-    - title: About me
+    - title: Career at DU &  HUFS 
       permalink: /about-me/
+    - title: divider
+    - title: Career at JNU
+      permalink: /about-me/
+    - title: divider
 horizontal: false
 ---
 
