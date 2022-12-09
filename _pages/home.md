@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 nav: false
 permalink: /
 subtitle: Professor of Linguistics at Centre for Linguistics, JNU, New Delhi

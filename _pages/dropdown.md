@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 nav: true
 nav_order: 1
 dropdown: true
