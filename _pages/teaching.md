@@ -11,7 +11,6 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 <!-- pages/projects.md -->
 <div class="projects">
-<!-- {% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %} -->
 
 <object data="{{ site.url }}/teaching/_pdfs/pkdassignment.pdf" width="1000" height="1000" type="application/pdf"></object>
 <!-- <object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object> -->
