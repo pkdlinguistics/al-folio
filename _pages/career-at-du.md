@@ -6,4 +6,4 @@ description: Career at DU
 horizontal: false
 ---
 
-Courses taught[here](/_pages/courses-taught.md).
+Courses taught [here](courses-taught.md).

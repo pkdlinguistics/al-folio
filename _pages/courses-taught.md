@@ -5,15 +5,3 @@ permalink: /courses-taught/
 description: Language Typology-2022
 horizontal: false
 ---
-
-The course is an effort to understand the structure of language (s). The course does not require the students to mug up the sentences from Indian languages. The course in Morphology must remind you about the structure of languages. All the sentences that would be presented in the class in order to support/prove the theoretical assumptions will be properly glossed and sense translated in English.
-
-All you will have to do is to understand the so-called Canonical structure of the sentences that are put forward to prove the relevant theoretical point. The sincere concern of the students, though, should be to parse the on going discussion conceptually in their mother tongue, as this will not only help in understanding the concept better but will also make the class quite enjoyable.
-
-The essential readings are must for those students who are taking the course for the credit (for exam), others might rely on the class-notes and by asking questions to clear their doubts.
-
-If you recall, I had proposed for a linguistic atlas of your mother-tongue and the neighboring languages. I might ask you to do this as the part of your internal assessment for the course.
-
-As usual I am going to treat you all as active participants in the course, so, if you have any idea that could make the course more interactive and enjoyable besides being informative, you can send me your suggestions and I will definitely take it in positive way and try to incorporate in the course (if possible)........
-
-You can find the slides [here](http://pkdjnu.unaux.com/TYPO/typo.htm).
