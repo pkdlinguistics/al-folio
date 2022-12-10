@@ -8,7 +8,11 @@ display_categories: [work, fun]
 dropdown: true
 children: 
     - title: Career at DU &  HUFS 
-      permalink: //
+      permalink: /career-at-du/
+      dropdown: true
+      children: 
+          - title: Courses taught 
+            permalink: /courses-taught/
     - title: divider
     - title: Career at JNU
       permalink: //
