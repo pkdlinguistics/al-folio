@@ -9,7 +9,7 @@ display_categories: [work, fun]
 dropdown: true
 children: 
     - title: Career at DU &  HUFS 
-      permalink: /about-me/
+      permalink: /lt2022/
     - title: divider
     - title: Career at JNU
       permalink: /about-me/
