@@ -1,6 +1,7 @@
 ---
 layout: page
-title: teaching
+title: Teaching
+permalink: /teaching/
 nav: true
 nav_order: 5
 dropdown: true
