@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Career in DU
-permalink: /career-in-du/
-description: Career in DU
+title: Career at DU
+permalink: /career-at-du/
+description: Career at DU
 horizontal: false
 ---
 
