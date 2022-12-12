@@ -18,5 +18,4 @@ children:
     - title: divider
     - title: Work in progress
       permalink: /publications/work-in-progress/
-    - title: divider
 ---
