@@ -8,7 +8,7 @@ display_categories: [work, fun]
 dropdown: true
 children: 
     - title: Language Typology-2022
-      permalink: /lt2022/
+      permalink: /teaching/lt2022/
     - title: divider
     - title: Career at JNU
       permalink: /about-me/
