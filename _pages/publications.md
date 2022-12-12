@@ -8,7 +8,7 @@ nav_order: 3
 dropdown: true
 children: 
     - title: PhD Thesis
-      permalink: /about-me/
+      permalink: /publications/phd-thesis/
     - title: divider
     - title: Publications
       permalink: /about-me/
