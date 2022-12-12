@@ -11,12 +11,12 @@ children:
       permalink: /publications/phd-thesis/
     - title: divider
     - title: Publications
-      permalink: /about-me/
+      permalink: /publications/publications/
     - title: divider
     - title: Research papers
-      permalink: /about-me/
+      permalink: /publications/research-papers/
     - title: divider
     - title: Work in progress
-      permalink: /about-me/
+      permalink: /publications/work-in-progress/
     - title: divider
 ---
