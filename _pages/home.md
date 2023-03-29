@@ -24,7 +24,7 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, h
+Hello, I am a professor of linguistics in the Centre for Linguistics at the School of Language, Literature and Culture Studies, Jawaharlal Nehru University. I have been teaching several courses since 2001. They include ‘Morphology’, Field-linguistics (Field-Methods), Language Typology, Semantics, Introduction to Linguistics, Transformational Generative Grammar, General Linguistics (in the Department of Germanic and Romance Studies, DU). I have also helped the Department to carry out intensive field-works on several languages such as Ho, Kokborok, Bodo, Bhalawari Bhasa and Tulu. 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
