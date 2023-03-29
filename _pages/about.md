@@ -15,7 +15,7 @@ children:
       permalink: /about/my-teachers/
     - title: divider
     - title: Research Interests
-      permalink: /about/research-interests/
+      permalink: /about/research-interest/
     - title: divider
     - title: Resume
       permalink: /resume/
